@@ -6,13 +6,13 @@
         Aplicativo não encontrado
       </message>
       <message desc="Startup Not Found Message [CHAR-LIMIT=100]" name="IDS_STARTUP_NOT_FOUND_MESSAGE">
-        APP_NAME requer um aplicativo adicional para ser executado. Para ajuda entre em contato.
+        APP_NAME requer uma biblioteca adicional para ser executado. Para ajuda entre em contato.
       </message>
       <message desc="Startup Older Version Title [CHAR-LIMIT=100]" name="IDS_STARTUP_OLDER_VERSION_TITLE">
         Atualização necessária
       </message>
       <message desc="Startup Older Version Message [CHAR-LIMIT=100]" name="IDS_STARTUP_OLDER_VERSION_MESSAGE">
-        Uma nova versão da biblioteca para exevução  necessária. Para ajuda entre em contato.
+        Uma nova versão da biblioteca é necessária para execução. Para ajuda entre em contato.
       </message>
       <message desc="Startup Newer Version Title [CHAR-LIMIT=100]" name="IDS_STARTUP_NEWER_VERSION_TITLE">
         Biblioteca incompatível
@@ -39,22 +39,22 @@
         O download falhou.
       </message>
       <message desc="Decompression Progress Message [CHAR-LIMIT=100]" name="IDS_DECOMPRESSION_PROGRESS_MESSAGE">
-        Verificando atualizações...
+        Por favor aguarde...
       </message>
       <message desc="Download Progress Message [CHAR-LIMIT=100]" name="IDS_DOWNLOAD_PROGRESS_MESSAGE">
         Realizando o download da biblioteca necessária para execução...
       </message>
       <message desc="Select Store Message [CHAR-LIMIT=100]" name="IDS_SELECT_STORE_MESSAGE">
-        Please select STORE_NAME to download the Crosswalk Project Service.
+        Por favor, faça o download do Crosswalk na STORE_NAME. Para ajuda entre em contato.
       </message>
       <message desc="Unsupported Store Message [CHAR-LIMIT=100]" name="IDS_UNSUPPORTED_STORE_MESSAGE">
-        É necessário a instalação manual da APK de suporte. Para ajuda entre em contato.
+        É necessário a instalação manual da biblioteca. Para ajuda entre em contato.
       </message>
       <message desc="Label of Google Play Store [CHAR-LIMIT=100]" name="IDS_GOOGLE_PLAY_STORE">
         Google Play Store
       </message>
       <message desc="Label of Get Crosswalk [CHAR-LIMIT=100]" name="IDS_XWALK_GET_CROSSWALK">
-        Instalar Biblioteca
+        Instalar biblioteca
       </message>
       <message desc="Label of Cancel [CHAR-LIMIT=100]" name="IDS_XWALK_CANCEL">
         Cancelar
