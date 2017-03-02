@@ -33,13 +33,13 @@
         The integrity of the Crosswalk Project Service cannot be verified. Please uninstall it and restart APP_NAME.
       </message>
       <message desc="Crosswalk Install Title [CHAR-LIMIT=100]" name="IDS_CROSSWALK_INSTALL_TITLE">
-        Crosswalk Project Install
+        Está a primeira execução do APP
       </message>
       <message desc="Download Failed Message [CHAR-LIMIT=100]" name="IDS_DOWNLOAD_FAILED_MESSAGE">
         Download failed.
       </message>
       <message desc="Decompression Progress Message [CHAR-LIMIT=100]" name="IDS_DECOMPRESSION_PROGRESS_MESSAGE">
-        Decompressing the Crosswalk Project Service...
+        Verificando atualizações...
       </message>
       <message desc="Download Progress Message [CHAR-LIMIT=100]" name="IDS_DOWNLOAD_PROGRESS_MESSAGE">
         Downloading the Crosswalk Project Service from remote host...
@@ -57,16 +57,16 @@
         Get Crosswalk
       </message>
       <message desc="Label of Cancel [CHAR-LIMIT=100]" name="IDS_XWALK_CANCEL">
-        Cancel
+        Cancelar
       </message>
       <message desc="Label of Continue [CHAR-LIMIT=100]" name="IDS_XWALK_CONTINUE">
-        Continue
+        Continuar
       </message>
       <message desc="Label of Close [CHAR-LIMIT=100]" name="IDS_XWALK_CLOSE">
-        Close
+        Fechar
       </message>
       <message desc="Label of Retry [CHAR-LIMIT=100]" name="IDS_XWALK_RETRY">
-        Retry
+        Tentar
       </message>
     </messages>
   </release>
